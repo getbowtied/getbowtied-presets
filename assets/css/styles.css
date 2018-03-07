@@ -1,0 +1,62 @@
+.getbowtied-presets.wrap {
+  margin-top: 10px; }
+  .getbowtied-presets.wrap td {
+    vertical-align: middle; }
+    .getbowtied-presets.wrap td.status {
+      text-transform: uppercase;
+      font-weight: bold; }
+      .getbowtied-presets.wrap td.status .publish {
+        color: #ccaf0b; }
+      .getbowtied-presets.wrap td.status .trash {
+        color: #cf4944; }
+      .getbowtied-presets.wrap td.status .draft {
+        color: #dd823b; }
+    .getbowtied-presets.wrap td.actions > * {
+      float: left;
+      margin-right: 10px; }
+    .getbowtied-presets.wrap td.actions .button {
+      padding-top: 3px; }
+    .getbowtied-presets.wrap td.edit .excerpt {
+      width: 100%;
+      display: block; }
+    .getbowtied-presets.wrap td.edit form.edit {
+      max-height: 0;
+      overflow: hidden;
+      -webkit-transition: all .3s;
+      -o-transition: all .3s;
+      transition: all .3s;
+      margin-top: 8px; }
+      .getbowtied-presets.wrap td.edit form.edit input[type="text"] {
+        margin: 0; }
+    .getbowtied-presets.wrap td.edit div.raw-data {
+      max-height: 0;
+      overflow: hidden;
+      -webkit-transition: all .3s;
+      -o-transition: all .3s;
+      transition: all .3s;
+      margin-top: 8px; }
+      .getbowtied-presets.wrap td.edit div.raw-data.active {
+        max-height: 500px;
+        overflow: auto; }
+    .getbowtied-presets.wrap td.edit a.edit,
+    .getbowtied-presets.wrap td.edit a.raw {
+      opacity: 0;
+      visibility: hidden;
+      -webkit-transition: .3s all;
+      -o-transition: .3s all;
+      transition: .3s all;
+      margin: 3px 5px 0 0; }
+    .getbowtied-presets.wrap td.edit:hover a.edit,
+    .getbowtied-presets.wrap td.edit:hover a.raw {
+      opacity: 1;
+      visibility: visible; }
+    .getbowtied-presets.wrap td.edit.active form.edit {
+      max-height: 100px; }
+    .getbowtied-presets.wrap td.edit.active a.edit {
+      opacity: 1;
+      visibility: visible; }
+    .getbowtied-presets.wrap td.edit pre {
+      background: #f4f4f4;
+      padding: 10px 20px; }
+      .getbowtied-presets.wrap td.edit pre span {
+        display: block; }

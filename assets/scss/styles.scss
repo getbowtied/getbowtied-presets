@@ -1,0 +1,126 @@
+.getbowtied-presets.wrap {
+	margin-top: 10px;
+	
+	td 
+	{	
+		vertical-align: middle;
+		
+		&.status 
+		{
+			text-transform: uppercase;
+			font-weight: bold;
+			
+			.publish 
+			{
+				color: #ccaf0b;
+			}
+
+			.trash 
+			{
+				color: #cf4944;
+			}
+
+			.draft 
+			{
+				color: #dd823b;
+			}
+		}
+
+		&.actions 
+		{
+			> * 
+			{
+				float: left;
+				margin-right: 10px;
+			}
+
+			.button 
+			{
+				padding-top: 3px;
+			}
+		}
+
+		&.edit 
+		{
+			.excerpt 
+			{
+				width: 100%;
+				display: block;
+			}
+
+			form.edit 
+			{
+				max-height: 0;
+				overflow: hidden;
+				transition: all .3s;
+				margin-top: 8px;
+				
+				input[type="text"]
+				{
+					margin: 0;
+				}
+				
+			}
+
+			div.raw-data 
+			{
+				max-height: 0;
+				overflow: hidden;
+				transition: all .3s;
+				margin-top: 8px;
+				
+				&.active 
+				{
+					max-height: 500px;
+					overflow: auto;
+				}
+			}
+
+			a.edit,
+			a.raw
+			{
+				opacity: 0;
+				visibility: hidden;
+				transition: .3s all;
+				margin: 3px 5px 0 0;
+			}
+
+			&:hover 
+			{
+				a.edit,
+				a.raw
+				{
+					opacity: 1;
+					visibility: visible;
+				}	
+			}
+
+			&.active 
+			{
+				form.edit
+				{
+					max-height: 100px;
+				}
+
+				a.edit 
+				{
+					opacity: 1;
+					visibility: visible;
+				}
+			}
+
+			pre 
+			{
+				background: #f4f4f4;
+				padding: 10px 20px;
+				
+				span 
+				{
+					display: block;
+				}	
+			}
+		}
+	}
+
+}
+
