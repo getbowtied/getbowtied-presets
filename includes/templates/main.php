@@ -121,7 +121,7 @@ foreach ( $changesets as $changeset ) {
 		<form method="POST" action="" class="edit">
 			<input type="hidden" name="changeset_id" value="<?php echo $changeset->ID; ?>" />
 			<input type="hidden" name="edit_changeset" value="1" />
-			<input type="text" name="changeset_excerpt" value="<?php echo $changeset->post_excerpt; ?>" />
+			<input type="text" name="changeset_excerpt" value="<?php echo empty($changeset->post_excerpt)? 'Generic changeset' : $changeset->post_excerpt; ?>" />
 			<input class="button" type="submit" value="Edit" />
 		</form>
 		<div class="raw-data">
@@ -185,7 +185,7 @@ foreach ( $changesets as $changeset ) {
 				echo '<button class="button" type="submit" value="submit" title="Customize"><span class="dashicons dashicons-edit"></span></button>';
 		echo '</form>';
 
-		echo '<form method="POST" action="">';
+		echo '<form method="POST" action="" onsubmit="return confirm(\'Permanently delete changeset?\');">';
 				echo '<input type="hidden" name="trash_changeset" value="1" />';
 				echo '<input type="hidden" name="changeset_id" value="' . $changeset->ID .'" />';
 				echo '<button class="button" type="submit" value="submit" title="Trash"><span class="dashicons dashicons-trash"></span></button>';
