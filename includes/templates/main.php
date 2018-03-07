@@ -115,7 +115,7 @@ foreach ( $changesets as $changeset ) {
 	?>
 	<!-- Edit changeset name -->
 	<td class="edit">
-		<span class="excerpt"><?php echo $changeset->post_excerpt; ?></span>
+		<span class="excerpt"><?php echo empty($changeset->post_excerpt)? 'Generic changeset' : $changeset->post_excerpt; ?></span>
 		<a href="#" class="edit">Edit</a>
 		<a href="#" class="raw">Raw Data</a>
 		<form method="POST" action="" class="edit">
