@@ -85,7 +85,8 @@ $changesets = get_posts($args);
 	<thead>
 		<td width="10%">Last Modified</td>
 		<td width="10%">ID</td>
-		<td width="50%">Description</td>
+		<td width="20%">Description</td>
+		<td width="30%">Query argument</td>
 		<td width="10%">Status</td>
 		<td>Actions</td>
 		<!-- <td>URL Fragment</td> -->
@@ -153,6 +154,7 @@ foreach ( $changesets as $changeset ) {
 		break;
 	}
 
+	echo '<td><input type="text" style="width:100%" value="?customize_changeset_uuid_gbt=' . $changeset->post_name . '" /></td>';
 	echo '<td class="status"><span class="'. $changeset->post_status .'">' . $status_message  . '</span></td>';
 
 	$status = $changeset->post_status == 'publish' ? '<span class="dashicons dashicons-star-filled">' : '<span class="dashicons dashicons-star-empty">';
@@ -167,7 +169,7 @@ foreach ( $changesets as $changeset ) {
 
 
 	echo '<a class="button" target="_blank" title="View" href="'. esc_url(add_query_arg(
-		'customize_changeset_uuid',
+		'customize_changeset_uuid_gbt',
 		$changeset->post_name,
 		site_url()
 	)) . '"><span class="dashicons dashicons-visibility"></span></a>';

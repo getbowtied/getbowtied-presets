@@ -40,3 +40,16 @@ function load_scripts() {
 
 add_action( 'admin_enqueue_scripts', 'load_styles' );
 add_action( 'admin_enqueue_scripts', 'load_scripts' );
+
+function getbowtied_presets_redirect_url() {
+	if (isset($_REQUEST['customize_changeset_uuid_gbt'])) {
+		$current_url="//".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+		$parsed = explode('?', $current_url);
+		$parsed[1]= 'customize_changeset_uuid=' . $_GET['customize_changeset_uuid_gbt'];
+		$parsed = implode($parsed, '?');
+		wp_redirect( $parsed );
+		exit();
+	}
+}
+
+add_action( 'after_setup_theme', 'getbowtied_presets_redirect_url');
