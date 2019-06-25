@@ -3,11 +3,11 @@
 	 * Plugin Name: GetBowtied Presets
 	 * Plugin URI: https://getbowtied.com/
 	 * Description: A suite of tools to help you kickstart your GetBowtied theme.
-	 * Version: 1.0
+	 * Version: 1.1
 	 * Author: GetBowtied
 	 * Author URI: https://getbowtied.com
-	 * Requires at least: 4.9
-	 * Tested up to: 4.9
+	 * Requires at least: 5.2.0
+	 * Tested up to: 5.2.1
 	 *
 	 * @package  GetBowtied Presets
 	 * @author GetBowtied
