@@ -1,0 +1,971 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"failed-",
+				"failed-parsing"
+			],
+			[
+				"primar",
+				"primary_menu"
+			],
+			[
+				"shop",
+				"shop_page_url"
+			],
+			[
+				"wp_add_",
+				"wp_add_inline_style"
+			],
+			[
+				"pixel",
+				"pixel_ratio_script"
+			],
+			[
+				"kses",
+				"args_kses"
+			],
+			[
+				"umiditat",
+				"umiditate_data"
+			],
+			[
+				"user_address",
+				"user_address_country"
+			],
+			[
+				"address_stree",
+				"user_address_street_no"
+			],
+			[
+				"woocommerce_before",
+				"woocommerce_before_shop_loop_item"
+			],
+			[
+				"woocommerce_after_shop_loo",
+				"woocommerce_after_shop_loop_item_title"
+			],
+			[
+				"woocommerce_before_shop_loop_",
+				"woocommerce_before_shop_loop_item_title"
+			],
+			[
+				"blockshop_homepage",
+				"blockshop_homepage_posts"
+			],
+			[
+				"blockshop_home",
+				"blockshop_homepage_posts"
+			],
+			[
+				"crate",
+				"create_args"
+			],
+			[
+				"star",
+				"starter_content"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"wp_dequeue",
+				"wp_dequeue_style"
+			],
+			[
+				"show",
+				"show_scroll_to_top"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"blok",
+				"block-shop-extender"
+			],
+			[
+				"coverI",
+				"coverImageSize"
+			],
+			[
+				"M",
+				"MAX_PIPE_SIZE"
+			],
+			[
+				"file",
+				"fileToArray"
+			],
+			[
+				"gbt_18_sl",
+				"gbt_18_slide_content_item"
+			],
+			[
+				"selected",
+				"selectedIDS"
+			],
+			[
+				"st",
+				"stringifyObjectIDS"
+			],
+			[
+				"Query",
+				"querySearchSelected"
+			],
+			[
+				"query",
+				"querySearchSelected"
+			],
+			[
+				"product",
+				"productIDs"
+			],
+			[
+				"_query",
+				"_queryLimit"
+			],
+			[
+				"qu",
+				"querySearchString"
+			],
+			[
+				"_is",
+				"_isSearchDisabled"
+			],
+			[
+				"get",
+				"getProducts"
+			],
+			[
+				"quer",
+				"queryProductsLast"
+			],
+			[
+				"_sear",
+				"_searchDisabledClass"
+			],
+			[
+				"selecte",
+				"selectedIDS"
+			],
+			[
+				"blocks",
+				"blocksCounter"
+			],
+			[
+				"register",
+				"registerBlockType"
+			],
+			[
+				"hide",
+				"hideEmpty"
+			],
+			[
+				"all_",
+				"all_categories"
+			],
+			[
+				"all",
+				"all_categories"
+			],
+			[
+				"pa",
+				"parentOnly"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"selec",
+				"selectedSlide"
+			],
+			[
+				"sel",
+				"selectedSlide"
+			],
+			[
+				"render",
+				"renderResults"
+			],
+			[
+				"defau",
+				"defaultProducts"
+			],
+			[
+				"display",
+				"queryDisplayType"
+			],
+			[
+				"queryProducts",
+				"queryProductsLast"
+			],
+			[
+				"que",
+				"queryProducts"
+			],
+			[
+				"renderRe",
+				"renderRequest"
+			],
+			[
+				"renderR",
+				"renderRequest"
+			],
+			[
+				"querySEAR",
+				"querySearchSelectedIDs"
+			],
+			[
+				"queryS",
+				"querySearchSelectedIDs"
+			],
+			[
+				"_sor",
+				"_sortByKeys"
+			],
+			[
+				"querySea",
+				"querySearchSelectedIDs"
+			],
+			[
+				"qe",
+				"queryProducts"
+			],
+			[
+				"catego",
+				"categoryElements"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"new",
+				"newQuery"
+			],
+			[
+				"querySe",
+				"querySearchString"
+			],
+			[
+				"displ",
+				"queryDisplayType"
+			],
+			[
+				"querySear",
+				"querySearchSelected"
+			],
+			[
+				"querySra",
+				"querySearchSelected"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"sort",
+				"sortCategories"
+			],
+			[
+				"di",
+				"queryDisplayType"
+			],
+			[
+				"cate",
+				"categoryElements"
+			],
+			[
+				"ca",
+				"categoryElements"
+			],
+			[
+				"displa",
+				"displayType"
+			],
+			[
+				"is_acti",
+				"is_active_sidebar"
+			],
+			[
+				"wp_get_attachmentimage",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"orderby",
+				"orderbySelect2"
+			],
+			[
+				"get_quer",
+				"get_queried_object"
+			],
+			[
+				"esc",
+				"esc_html"
+			],
+			[
+				"the_category",
+				"the_category_ID"
+			],
+			[
+				"get_tem",
+				"get_template_part_<slug>"
+			],
+			[
+				"wp_get_th",
+				"wp_get_theme"
+			],
+			[
+				"shopkee",
+				"shopkeeper_theme_options"
+			],
+			[
+				"produ",
+				"product_ids_on_sale"
+			],
+			[
+				"secondary",
+				"secondary_font_variants"
+			],
+			[
+				"wooco",
+				"woocommerce_loop"
+			],
+			[
+				"archive",
+				"archive_description"
+			],
+			[
+				"arch",
+				"archive_description"
+			],
+			[
+				"new_products_number_",
+				"new_products_number_last"
+			],
+			[
+				"getbowtied",
+				"getbowtied_is_custom_archive"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"getbowtied_pre",
+				"getbowtied_presets_redirect_url"
+			],
+			[
+				"WP_Cust",
+				"WP_Customize_Manager"
+			],
+			[
+				"get_template_di",
+				"get_template_directory_uri"
+			],
+			[
+				"is_plugin",
+				"is_plugin_active"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"id",
+				"id_fragment"
+			],
+			[
+				"header_sea",
+				"header_search_form"
+			],
+			[
+				"checkout",
+				"checkout_coupon"
+			],
+			[
+				"checkou",
+				"checkout_coupon"
+			],
+			[
+				"main_",
+				"main_font"
+			],
+			[
+				"featured",
+				"featured_products"
+			],
+			[
+				"header",
+				"header_search_form"
+			],
+			[
+				"hea",
+				"header_search_form"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_script"
+			],
+			[
+				"search",
+				"search_cache"
+			],
+			[
+				"header_",
+				"header_search_form"
+			],
+			[
+				"getbow",
+				"getbowtied_exclude_products"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"current",
+				"current_setting"
+			],
+			[
+				"array_k",
+				"array_keys"
+			],
+			[
+				"megam",
+				"megamenu_content"
+			],
+			[
+				"WP",
+				"WP_Query\tNew WP_Query Class"
+			],
+			[
+				"_",
+				"_COOKIE"
+			],
+			[
+				"wp_se",
+				"wp_send_json"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"onsale",
+				"onsale_price"
+			],
+			[
+				"disconnec",
+				"disconnect-form"
+			],
+			[
+				"panel_navbutton_",
+				"panel_navbutton_mega"
+			],
+			[
+				"enable_",
+				"enable_nav_button"
+			],
+			[
+				"panel_megame",
+				"panel_megamenu_button"
+			],
+			[
+				"panel_mega",
+				"panel_megamenu_button"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"sub",
+				"subcategories_html"
+			],
+			[
+				"categ",
+				"category_choices"
+			],
+			[
+				"item",
+				"item_output"
+			],
+			[
+				"me",
+				"menuLocations"
+			],
+			[
+				"custom",
+				"custom_autoplay_speed"
+			],
+			[
+				"funciton",
+				"function_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php\n\t/**\n\t * Plugin Name: GetBowtied Presets\n\t * Plugin URI: https://getbowtied.com/\n\t * Description: A suite of tools to help you kickstart your GetBowtied theme.\n\t * Version: 1.0\n\t * Author: GetBowtied\n\t * Author URI: https://getbowtied.com\n\t * Requires at least: 4.9\n\t * Tested up to: 4.9\n\t *\n\t * @package  GetBowtied Presets\n\t * @author GetBowtied\n\t */\n\nif ( ! defined( 'ABSPATH' ) ) {\n\texit; // Exit if accessed directly.\n}\n\nadd_action('admin_menu', 'getbowtied_presets_menu');\n \nfunction getbowtied_presets_menu(){\n    add_menu_page( 'GetBowtied Presets', 'GetBowtied Presets', 'manage_options', 'getbowtied-presets', 'getbowtied_presets_main' );\n}\n \nfunction getbowtied_presets_main(){\n\tif (isset($_GET['changeset_id']) && is_numeric($_GET['changeset_id']))\n\t\tinclude dirname( __FILE__ ) . \"/includes/templates/single.php\";\n\telse\n\t\tinclude dirname( __FILE__ ) . \"/includes/templates/main.php\";\n}\n\nfunction load_styles() {\n\twp_enqueue_style( 'getbowtied-presets-css', plugins_url( 'assets/css/styles.css', __FILE__ ), array(), '1.0' );\n}\n\nfunction load_scripts() {\n\twp_enqueue_script( 'getbowtied-presets-js', plugins_url( 'assets/js/scripts-dist.js', __FILE__ ), array(), '1.0' );\n}\n\nadd_action( 'admin_enqueue_scripts', 'load_styles' );\nadd_action( 'admin_enqueue_scripts', 'load_scripts' );\n\nfunction getbowtied_presets_redirect_url() {\n\tif (isset($_REQUEST['customize_changeset_uuid_gbt'])) {\n\t\t$current_url=\"//\".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];\n\t\t$parsed = explode('?', $current_url);\n\t\t$parsed[1]= 'customize_changeset_uuid=' . $_GET['customize_changeset_uuid_gbt'];\n\t\t$parsed = implode($parsed, '?');\n\t\twp_redirect( $parsed );\n\t\texit();\n\t}\n}\n\nadd_action( 'after_setup_theme', 'getbowtied_presets_redirect_url');",
+			"file": "getbowtied-presets.php",
+			"file_size": 1794,
+			"file_write_time": 132059372023991592,
+			"settings":
+			{
+				"buffer_size": 1740,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Traian/AppData/Roaming/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1714,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 287.0,
+		"history":
+		[
+			"git",
+			"makearchive.bat",
+			"makearchive",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/local.dev/getbowtied-presets",
+		"/E/local.dev/getbowtied-presets/wp-content",
+		"/E/local.dev/getbowtied-presets/wp-content/plugins",
+		"/E/local.dev/getbowtied-presets/wp-content/plugins/getbowtied-presets"
+	],
+	"file_history":
+	[
+		"/C/Users/Traian/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/E/local.dev/storesix/wp-content/themes/storesix/src/css/sass/core/_gutenberg.scss",
+		"/E/local.dev/storesix/wp-content/themes/storesix/src/css/editor.scss",
+		"/E/local.dev/storesix/wp-content/plugins/woocommerce/includes/class-wc-install.php",
+		"/E/local.dev/storesix/wp-content/themes/storesix/functions.php",
+		"/E/local.dev/storesix/wp-includes/theme.php",
+		"/E/local.dev/storesix/wp-content/themes/storesix/core/demo/blockshop.wordpress.xml",
+		"/E/local.dev/storesix/wp-content/plugins/woocommerce/includes/api/v2/class-wc-rest-system-status-tools-v2-controller.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/footer.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/header-centered.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/header-default.php",
+		"/E/local.dev/mrtailor/wp-content/plugins/mr-tailor-extender/mrtailor-extender.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/helpers/customizer-options.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/header.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/style.css",
+		"/E/local.dev/mrtailor/wp-content/plugins/mr-tailor-extender/README.txt",
+		"/E/local.dev/theretailer/wp-content/plugins/the-retailer-extender/the-retailer-extender.php",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/expanding_grid/functions/function-setup.php",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/expanding_grid/block.php",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/expanding_grid/block.js",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/expanding_grid/assets/scss/backend/editor.scss",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/expanding_grid/assets/css/backend/editor.css",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/functions/function-setup.php",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/blocks/product.js",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/blocks/lookbook.js",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/assets/scss/backend/product.scss",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/assets/scss/backend/placeholder.scss",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/assets/scss/backend/lookbook.scss",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/assets/css/backend/product.css",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/assets/css/backend/placeholder.css",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/lookbook_snap_to_scroll/assets/css/backend/editor.css",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/README.txt",
+		"/E/local.dev/product-blocks-for-woocommerce/wp-content/plugins/product-blocks-for-woocommerce/includes/gbt-blocks/categories_grid/assets/scss/backend/grid.scss",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/settings/assets/js/go-to-page.js",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/js/scripts.js",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/admin/wizard/class-gbt-install-wizard.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/functions.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/scss/theme.scss",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/scss/responsive.scss",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/css/styles.css",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/templates/template-tags.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/custom-menu/custom-menu.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/settings/assets/js/dropdown.js",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/comments.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/single-product/product-image.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/checkout/form-checkout.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/search.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/settings/options/fonts.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/settings/options/header.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/settings/options/shop.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/templates/post-meta.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/custom-styles/read-options.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/custom-menu/edit_custom_walker.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/settings/kirki/example.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/content-page.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/image.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/content-none.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/archive.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/loop/result-count.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/loop/no-products-found.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/sidebar.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/searchform.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/index.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/header-topbar.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/content.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/404.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/custom-styles/gutenberg-styles.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/scss/admin/block-assets.scss",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/custom-styles/custom-styles.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/myaccount/form-login.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/tgm/plugins.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/scss/styles.scss",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/archive-product.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/cart/mini-cart.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/page-blank.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/woocommerce/content-single-product.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/demo/ocdi-setup.php",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/js/foundation.min.js",
+		"/E/local.dev/mrtailor/wp-content/themes/mrtailor/inc/metaboxes/map-meta.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/woocommerce/myaccount/form-login.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/header_style_menu_under.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/header_style_default.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/header_style_centered.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/functions.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/assets/js/dropdown.js",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/footer.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/js/sliders.js",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/js/init.js",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/header.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/style.css",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/custom-styles/custom_styles.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/tgm/class-tgm-plugin-activation.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/woocommerce/single-product/tabs/description.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/woocommerce/content-single-product.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/woocommerce/content-product.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/search.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/index.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/template-tags.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/content.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/content-single.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/content-page.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend/section-my-account.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/woocommerce/single-product/rating.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/read_options.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend/section-shop.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend/section-header.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend/section-general.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend/section-footer.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/admin/wizard/class-gbt-install-wizard.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/image.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/content-audio.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/content-aside.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/comments.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/archive.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/page-blank.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/woocommerce/single-product/up-sells.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/sidebar.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/sidebar-my_account.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/searchform.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/page-archive.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/no-results.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/header_topbar.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/content-status.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/404.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend/init.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend.php",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/assets/js/go-to-page.js",
+		"/E/local.dev/theretailer/wp-content/themes/theretailer/inc/customizer/backend/sections.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "getbowtied-presets.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								902,
+								902
+							]
+						],
+						"settings":
+						{
+							"SL.29.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Traian/AppData/Roaming/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								906,
+								906
+							]
+						],
+						"settings":
+						{
+							"SL.31.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "getbowtied-presets.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
