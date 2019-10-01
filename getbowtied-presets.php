@@ -36,7 +36,7 @@ class GetBowtied_Presets {
 	
 	 
 	function getbowtied_presets_menu(){
-	    add_menu_page( 'GetBowtied Presets', 'GetBowtied Presets', 'manage_options', 'getbowtied-presets', array($this,'getbowtied_presets_main'));
+	    add_menu_page( 'GetBowtied Presets', 'Presets', 'manage_options', 'getbowtied-presets', array($this,'getbowtied_presets_main'));
 	}
 	 
 	function getbowtied_presets_main(){
