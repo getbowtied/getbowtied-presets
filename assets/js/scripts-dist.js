@@ -1,1 +1,0 @@
-jQuery(function(t){"use strict";t(document).on("click",".getbowtied-presets td.edit a.edit",function(e){e.preventDefault(),t(this).parents("td.edit").toggleClass("active")}),t(document).on("click",".getbowtied-presets td.edit a.raw",function(e){e.preventDefault(),t(this).siblings("div.raw-data").toggleClass("active")})});
