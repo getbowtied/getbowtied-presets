@@ -79,8 +79,10 @@ class Getbowtied_Presets_Admin {
 	 * @since    1.0.0
 	 */
 	function presets_redirect_url() {
-		if (isset($_REQUEST['customize_changeset_uuid_gbt'])) {
+		if (isset($_REQUEST['customize_changeset_uuid'])) {
 			_wp_customize_include();
+		}
+		if (isset($_REQUEST['customize_changeset_uuid_gbt'])) {
 			$current_url="//".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 			$parsed = explode('?', $current_url);
 			$parsed[1]= 'customize_changeset_uuid=' . $_GET['customize_changeset_uuid_gbt'];
