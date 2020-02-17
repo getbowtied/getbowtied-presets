@@ -4,7 +4,7 @@
  * Plugin Name:       GetBowtied Presets
  * Plugin URI:        https://github.com/getbowtied/getbowtied-presets
  * Description:       A suite of tools to help you kickstart your GetBowtied theme.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            GetBowtied
  * Author URI:        https://getbowtied.com/
  * License:           GPL-2.0+
@@ -27,7 +27,7 @@ if( !function_exists('wp_get_current_user') ) {
     include( ABSPATH . 'wp-includes/pluggable.php' );
 }
 
-define( 'GETBOWTIED_PRESETS_VERSION', '1.0.0' );
+define( 'GETBOWTIED_PRESETS_VERSION', '1.0.1' );
 
 require_once plugin_dir_path( __FILE__ ) . 'includes/updater/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(

@@ -1,18 +1,18 @@
 {
 	"name": "GetBowtied Presets",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"download_url": "https://github.com/getbowtied/getbowtied-presets/zipball/master",
 
 	"homepage": "https://themeforest.net/item/shopkeeper-ecommerce-wp-theme-for-woocommerce/9553045",
 	"requires": "5.0",
-	"tested": "5.2.3",
-	"last_updated": "2019-10-02 13:00:00",
+	"tested": "5.3.2",
+	"last_updated": "2020-02-17 12:00:00",
 
 	"author": "GetBowtied",
 	"author_homepage": "https://getbowtied.com/",
 
 	"sections": {
 		"description": "<p>A suite of tools to help you kickstart your GetBowtied theme.</p>",
-		"changelog": "<h4>1.0</h4><ul><li>Initial Version</li></ul>"
+		"changelog": "<h4>1.0.1</h4><ul><li>Fixed access to presets when not logged in</li></ul><h4>1.0</h4><ul><li>Initial Version</li></ul>"
 	}
 }
