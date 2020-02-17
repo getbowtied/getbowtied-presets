@@ -143,7 +143,7 @@ $changesets = get_posts($args);
 				?>
 
 				<td>
-					<input type="text" style="width:100%" value="?customize_changeset_uuid_gbt=<?php echo $changeset->post_name; ?>" />
+					<input type="text" style="width:100%" value="?customize_changeset_uuid=<?php echo $changeset->post_name; ?>" />
 				</td>
 
 				<td class="status">
@@ -164,7 +164,7 @@ $changesets = get_posts($args);
 						<button <?php echo $disabled; ?> class="button" title="Keep this" type="submit" value="submit"><?php echo $status; ?></button>
 					</form>
 
-					<a class="button" target="_blank" title="View" href="<?php echo esc_url( add_query_arg( 'customize_changeset_uuid_gbt', $changeset->post_name, site_url() ) ); ?>">
+					<a class="button" target="_blank" title="View" href="<?php echo esc_url( add_query_arg( 'customize_changeset_uuid', $changeset->post_name, site_url() ) ); ?>">
 						<span class="dashicons dashicons-visibility"></span>
 					</a>
 

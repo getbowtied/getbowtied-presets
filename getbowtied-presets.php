@@ -19,6 +19,10 @@
 
 if ( ! defined( 'WPINC' ) ) { die(); }
 
+if ( !function_exists( '_wp_customize_include' ) ) {
+    require_once ABSPATH . WPINC . '/theme.php';
+}
+
 if( !function_exists('wp_get_current_user') ) {
     include( ABSPATH . 'wp-includes/pluggable.php' );
 }
