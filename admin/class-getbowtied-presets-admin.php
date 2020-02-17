@@ -51,6 +51,7 @@ class Getbowtied_Presets_Admin {
 
 		add_action( 'admin_menu', array( $this, 'add_plugin_page' ) );
 		add_action( 'after_setup_theme', array( $this, 'customize_include' ) );
+		add_action( 'after_setup_theme', array( $this, 'presets_redirect_url' ) );
 	}
 
 	/**
@@ -81,6 +82,17 @@ class Getbowtied_Presets_Admin {
 	function customize_include() {
 		if (isset($_REQUEST['customize_changeset_uuid'])) {
 			_wp_customize_include();
+		}
+	}
+
+	function presets_redirect_url() {
+		if (isset($_REQUEST['customize_changeset_uuid_gbt'])) {
+			$current_url="//".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+			$parsed = explode('?', $current_url);
+			$parsed[1]= 'customize_changeset_uuid=' . $_GET['customize_changeset_uuid_gbt'];
+			$parsed = implode($parsed, '?');
+			wp_redirect( $parsed );
+			exit();
 		}
 	}
 
