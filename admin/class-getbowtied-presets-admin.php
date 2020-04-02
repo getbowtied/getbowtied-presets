@@ -86,7 +86,7 @@ class Getbowtied_Presets_Admin {
 			$current_url="//".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 			$parsed = explode('?', $current_url);
 			$parsed[1]= 'customize_changeset_uuid=' . $_GET['customize_changeset_uuid_gbt'];
-			$parsed = implode($parsed, '?');
+			$parsed = implode('?', $parsed);
 			wp_safe_redirect( $parsed );
 			exit();
 		}
