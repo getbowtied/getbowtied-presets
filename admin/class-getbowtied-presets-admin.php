@@ -83,7 +83,7 @@ class Getbowtied_Presets_Admin {
 			_wp_customize_include();
 		}
 		if (isset($_REQUEST['customize_changeset_uuid_gbt'])) {
-			$current_url="//".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+			$current_url = ( ( isset( $_SERVER['HTTPS'] ) && ('on' === $_SERVER['HTTPS'] ) ) ? "https" : "http" ) ."://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 			$parsed = explode('?', $current_url);
 			$parsed[1]= 'customize_changeset_uuid=' . $_GET['customize_changeset_uuid_gbt'];
 			$parsed = implode('?', $parsed);
