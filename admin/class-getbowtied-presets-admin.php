@@ -75,11 +75,12 @@ class Getbowtied_Presets_Admin {
 
 	/**
 	 * Presets redirect URL
+	 * use _wp_customize_include to acces the preset when not logged in
 	 *
 	 * @since    1.0.0
 	 */
 	function presets_redirect_url() {
-		if (isset($_REQUEST['customize_changeset_uuid'])) {
+		if (!is_user_logged_in() && isset($_REQUEST['customize_changeset_uuid'])) {
 			_wp_customize_include();
 		}
 		if (isset($_REQUEST['customize_changeset_uuid_gbt'])) {
